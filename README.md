@@ -11,5 +11,5 @@ In this repository I will post:
 
 I will also make some algorithms:
 
-1) Backpropriation in Finance (included forward pass with a given input, Error calculation, Backpropriation, Weight and Bias Updates). Backpropagation is a training algorithm used to adjust the weights and biases of a neural network to minimize prediction errors. Here's what such a result might indicate:
+1) Backpropriation (included forward pass with a given input, Error calculation, Backpropriation, Weight and Bias Updates). Backpropagation is a training algorithm used to adjust the weights and biases of a neural network to minimize prediction errors. Here's what such a result might indicate:
    
