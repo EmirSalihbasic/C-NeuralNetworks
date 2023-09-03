@@ -6,9 +6,9 @@ C++ is highly compiled and very fast, it gives us control over the memory manage
 
 In this repository I will post:
 
-a) SImple Sigmoid function (x = sigmoid(a*b+c))
-b) Delta for Neuron (delta = outputError * sigmoidDerivative(predictedOutput))
+1) SImple Sigmoid function (x = sigmoid(a*b+c))
+2) Delta for Neuron (delta = outputError * sigmoidDerivative(predictedOutput))
 
-I will also make some algorithms
+I will also make some algorithms:
 
 1) Backpropriation in Finance
